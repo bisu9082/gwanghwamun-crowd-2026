@@ -1,0 +1,17 @@
+﻿station,measure,event,base_median,base_min,base_max,diff,ratio,n_base,group
+1호선 시청,alightings,13616,20520,18670,27009,-6904,0.66,12,core (no-stop 14/15-22h)
+1호선 시청,boardings,5664,19610,18183,24851,-13946,0.29,12,core (no-stop 14/15-22h)
+1호선 종각,alightings,39342,27868,25805,45210,11474,1.41,12,peripheral
+1호선 종각,boardings,45631,28998,27422,57719,16633,1.57,12,peripheral
+2호선 시청,alightings,9118,12645,12077,15769,-3527,0.72,12,core (no-stop 14/15-22h)
+2호선 시청,boardings,6998,15302,14363,18407,-8304,0.46,12,core (no-stop 14/15-22h)
+2호선 을지로입구,alightings,48588,41188,39271,47479,7399,1.18,12,peripheral
+2호선 을지로입구,boardings,57238,42137,38689,50407,15101,1.36,12,peripheral
+3호선 경복궁(정부서울청사),alightings,13132,30538,25551,33712,-17406,0.43,12,core (no-stop 14/15-22h)
+3호선 경복궁(정부서울청사),boardings,9524,29804,25679,32705,-20280,0.32,12,core (no-stop 14/15-22h)
+3호선 안국,alightings,32845,31652,27457,39288,1192,1.04,12,peripheral
+3호선 안국,boardings,27852,29172,25557,36823,-1320,0.95,12,peripheral
+5호선 광화문(세종문화회관),alightings,15004,25731,23625,33084,-10727,0.58,12,core (no-stop 14/15-22h)
+5호선 광화문(세종문화회관),boardings,7003,24864,22477,35059,-17861,0.28,12,core (no-stop 14/15-22h)
+5호선 서대문,alightings,14684,9241,7960,11045,5442,1.59,12,peripheral
+5호선 서대문,boardings,19113,9620,8210,12944,9492,1.99,12,peripheral

@@ -1,0 +1,6 @@
+all8 ordinary event 0.874 placebo 0.825 1.079 as low 1 as high 17 of 18
+all8 all_26 event 0.871 placebo 0.819 1.69 as low 2 as high 24 of 26
+outer ordinary event 0.938 placebo 0.847 1.101 as low 5 as high 13 of 18
+outer all_26 event 0.93 placebo 0.838 1.13 as low 6 as high 20 of 26
+nearby ordinary event 1.184 placebo 0.864 1.07 as low 18 as high 0 of 18
+nearby all_26 event 1.152 placebo 0.794 1.257 as low 22 as high 4 of 26
