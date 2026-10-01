@@ -1,0 +1,21 @@
+# Exa web_search_exa queries used to build /tmp/corpus/pre_event.json (run 2026-09-30)
+# Format: <n>. <query> | numResults requested | results returned (as listed by Exa)
+# Note: every query also returned post-event (2026-03-21+) articles, which were screened out by date.
+1. BTS 광화문 26만 | 15 | 15
+2. 26만명 BTS 경찰 | 15 | 15
+3. BTS 공연 최대 26만명 몰릴 | 15 | 15
+4. 광화문 26만 인파 안전 | 15 | 15
+5. BTS 26만 숭례문 | 15 | 15
+6. BTS 컴백 공연 26만 교통통제 | 15 | 15
+7. 26만 명 BTS 테러 | 15 | 15
+8. BTS 광화문 인파 26만 서울시 | 15 | 15
+9. BTS 공연 26만 예상 경찰청장 | 15 | 15
+10. BTS 광화문 26만 명 운집 | 15 | 15
+11. BTS 컴백 광화문 26만 명 상인 편의점 특수 | 15 | 15
+12. BTS 공연 26만 통신 3사 기지국 광화문 | 15 | 15
+13. BTS 광화문 공연 26만 행안부 위기경보 주의 | 15 | 15
+14. BTS 광화문 공연 26만명 소방 구급 현장진료소 | 15 | 15
+15. BTS 26만 집회 금지 광화문 시민단체 | 12 | 12
+16. BTS 광화문 최대 26만명 KBS MBC SBS JTBC 뉴스 3월 | 15 | 15
+17. 하이브 안전요원 BTS 광화문 26만명 대비 | 12 | 12
+# Total: 17 queries, 249 result slots (heavy overlap; ~75 unique pre-event candidate URLs fetched with web_fetch_exa)

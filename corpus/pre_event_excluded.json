@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.starnewskorea.com/music/2026/03/21/2026031919561096146",
+    "reason": "published 2026-03-21 07:05 KST (after window)"
+  },
+  {
+    "url": "https://www.yna.co.kr/view/AKR20260319107100004",
+    "reason": "no 26만 mention (only 2002 World Cup 20만∼25만)"
+  },
+  {
+    "url": "https://www.ddaily.co.kr/page/view/2026032020395134834",
+    "reason": "발행일 2026-03-21 06:00 (after window)"
+  },
+  {
+    "url": "https://www.mk.co.kr/news/entertain/11987588",
+    "reason": "no 26만 mention in text"
+  },
+  {
+    "url": "https://www.hani.co.kr/arti/society/society_general/1249993.html",
+    "reason": "no 26만 in fetched text (only 10만 zone cap)"
+  },
+  {
+    "url": "https://www.hg-times.com/news/articleView.html?idxno=300298",
+    "reason": "no 26만 in fetched text"
+  },
+  {
+    "url": "https://kdsn.co.kr/mobile/article.html?no=48703",
+    "reason": "no 26만 in fetched text"
+  },
+  {
+    "url": "https://www.mhj21.com/news/articleView.html?idxno=251135",
+    "reason": "no 26만 in fetched text"
+  },
+  {
+    "url": "https://coenworks.com/View.aspx?No=4010530",
+    "reason": "'뉴스브릿지' page with placeholder byline (테스트2 test2@gmail.com); unverifiable claims — excluded as not a credible news outlet (text did state '경찰 추산 예상 인파가 최대 26만 명')"
+  },
+  {
+    "url": "https://mobile.newsis.com/view/NISX20260320_0003557527",
+    "reason": "기사등록 2026-03-21 06:03 (after window); mentions 26만~30만"
+  },
+  {
+    "url": "https://radiokorea.com/news/article.php?uid=490103",
+    "reason": "US-based Korean outlet reposting Yonhap AKR20260209075151004 verbatim (duplicate)"
+  }
+]

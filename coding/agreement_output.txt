@@ -1,0 +1,11 @@
+    agree_units  manual_n  coder2_n
+C1            8         3         3
+C2            8         4         4
+C3            8         2         2
+C4            8         8         8
+C5            8         2         2
+C6            8         4         4
+C7            7         1         2
+C8            8         0         0
+decisions=64 agreement=0.984 kappa=0.967 alpha=0.967
+disagreements: [('RM, 19 Mar', 'C7', 0, 1)]

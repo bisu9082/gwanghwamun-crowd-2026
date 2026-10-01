@@ -1,0 +1,25 @@
+﻿unit,category,matched_pattern
+"RM, 19 Mar",Follow staff and officials,안내를?\s*(꼭\s*)?따라
+"RM, 19 Mar",Do not push; look after each other,배려
+"RM, 19 Mar",General request to stay safe,안전하
+"RM, 19 Mar",Thanks to authorities and staff,"(경찰|소방|스태프|관계자|안전요원|정부|지자체|도움\s*주신|고생해)[^.!?]{0,40}감사"
+"Jin, 19 Mar",General request to stay safe,안전에\s*(꼭\s*)?유의
+"Jin, 19 Mar",Thanks to authorities and staff,"(경찰|소방|스태프|관계자|안전요원|정부|지자체|도움\s*주신|고생해)[^.!?]{0,40}감사"
+"V, 20 Mar",Do not push; look after each other,"서로\S{0,3}\s*(배려|지켜)"
+"V, 20 Mar",General request to stay safe,안전하; 다치는\s*(일|사람)
+"Jimin, 20 Mar",Follow staff and officials,안전요원\S*\s*(에게|께)\s*(반드시\s*)?알려
+"Jimin, 20 Mar",Do not push; look after each other,"서로\S{0,3}\s*(배려|지켜); 배려; 천천히"
+"Jimin, 20 Mar",General request to stay safe,다치는\s*(일|사람)
+"Jimin, 20 Mar",Health and comfort,컨디션
+"Group live, 20 Mar",Follow staff and officials,통제에\s*(잘\s*)?따라
+"Group live, 20 Mar",Stay back; use the screens,각자\s*자리
+"Group live, 20 Mar",General request to stay safe,안전하; 안전이\s*(제일|최우선); 사고\s*없이
+"Group live, 20 Mar",Safe precedent; trust in fans,좋은\s*사례; 믿어
+"Suga, 21 Mar",General request to stay safe,무리하지
+"Suga, 21 Mar",Health and comfort,따[뜻듯]하게; 쌀쌀
+"Suga, 21 Mar",Thanks to authorities and staff,"(경찰|소방|스태프|관계자|안전요원|정부|지자체|도움\s*주신|고생해)[^.!?]{0,40}감사"
+"J-Hope, 21 Mar",Do not push; look after each other,밀(거나|지)
+"J-Hope, 21 Mar",Stay back; use the screens,스크린; 무대\s*앞으로\s*모이지
+"J-Hope, 21 Mar",General request to stay safe,안전하
+"Jungkook, 21 Mar",General request to stay safe,안전하
+"Jungkook, 21 Mar",Thanks to authorities and staff,"(경찰|소방|스태프|관계자|안전요원|정부|지자체|도움\s*주신|고생해)[^.!?]{0,40}감사"

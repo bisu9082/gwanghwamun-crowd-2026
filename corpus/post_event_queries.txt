@@ -1,0 +1,38 @@
+Corpus: Korean news mentioning police planning figure "26만" for BTS Gwanghwamun concert, published 2026-03-21..2026-03-26
+Tool: Exa web_search_exa (search) + web_fetch_exa (page fetch). Built 2026-09-30.
+Result count = number of results returned by Exa for that query (requested numResults in brackets).
+
+ #  query                                                        returned [requested]
+ 1  BTS 26만 예상 4만                                               15 [15]
+ 2  BTS 광화문 26만 과잉대응                                         15 [15]
+ 3  BTS 공연 26만 빗나간 예측                                        15 [15]
+ 4  BTS 인파 예측 실패 26만                                          15 [15]
+ 5  26만 온다더니 BTS                                               15 [15]
+ 6  BTS 광화문 공무원 동원 논란 26만 공무원노조                         12 [12]
+ 7  BTS 공연 상인 매출 26만 편의점 재고                                12 [12]
+ 8  BTS 광화문 안전 성공 무사고 26만 대비                              12 [12]
+ 9  BTS 26만 ㎡당 2명 경찰 추산 근거                                  10 [10]
+10  BTS 광화문 인파 추산 하이브 10만 26만 사설 칼럼                      10 [10]
+11  BTS 광화문 생활인구 26만 서울시 특별휴가                            10 [10]
+12  하이브 주가 급락 BTS 광화문 26만 예상                               10 [10]
+13  서울경찰청장 BTS 26만 "미흡함보다 과한 게 낫다"                      10 [10]
+
+Total raw results: 171 (heavy overlap; ~95 unique URLs).
+Fetch calls (web_fetch_exa): 3 batches, 17 URLs (news1, 서울경제/nate, 국민일보, 디지털데일리, 한국경제, KBS,
+  중앙 x2, THE Biz, 동아 3/26, 이투데이, 매일신문, 경향 3/21, 여성신문/naver, 파이낸셜뉴스 014, 지디넷/naver, 매경/naver).
+For the remaining kept articles, verbatim sentences come from the page text Exa returned in search results
+(Exa search returns extracted page content); no text was paraphrased or reconstructed.
+
+Kept: 59 articles (see post_event.json).
+
+Excluded (reason):
+- Out of date window: BBC 코리아 2026-03-20; 한국일보 3/20, 헤럴드경제 10699247 (3/20), 월요신문 (3/20), 한국NGO신문 226667 (3/20);
+  한국일보 사설 (pre-event); 스포츠동아/서울신문/radiokorea (Feb); 연합 AKR20260327019300004, 데일리안, 이데일리 (3/27);
+  일요신문 (3/27); 연합 3/29; 자본시장뉴스 (May); mediawatch 259151 (Apr 2).
+- 26만 not found in retrieved text: 동아일보 [단독] 3/26 생활인구; 헤럴드경제 10699810 (서울시 안전사고 0건); Korea Post;
+  서울경제 20022702 (하이브 주가); 머니투데이 stock 3/24; 경향 202603222041005 ("광장은 누구의 것인가");
+  파이낸셜뉴스 014/0005495899; EBN 1703205 (says 20만~30만 only); 서울경제 011/0004601894; MBC pieces (26만 not in retrieved text).
+- Not news outlets: dogdrip.net (community), brunch.co.kr (blog), dailymotion (video re-upload), realscasenote / siglab (blogs),
+  korea.kr 정책기자단 (government citizen-reporter page; mentions 26만 on 3/24 but excluded as non-news-outlet).
+- Duplicates collapsed to one URL: 헤럴드경제 on Daum; 연합뉴스 on Daum + korean-vibe.com; 문화일보 x2 on Naver; SBS on Naver;
+  여성신문 on Naver; 뉴스핌 on Nate; 지디넷 on Naver; mediawatch mobile.
